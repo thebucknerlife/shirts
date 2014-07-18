@@ -5,6 +5,10 @@ puts "Hi Greg"
 pants = gets.chomp
 
 
+if pants == 'apple bottom jeans'
+  puts 'NO!'
+end
+
 5.times do 
 	puts pants + " :) "
 end 
