@@ -4,14 +4,19 @@ puts "Hi Greg"
 
 pants = gets.chomp
 
+5.times do
+	puts pants + " :) "
+end
 
 if pants == 'apple bottom jeans'
   puts 'NO!'
 end
 
+
 5.times do 
 	puts pants + " :D"
-end 
+end
+
 
 100.times do |i|
 
