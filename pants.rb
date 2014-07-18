@@ -5,6 +5,6 @@ puts "Hi Greg"
 pants = gets.chomp
 
 
-5.times do 
+5.times do
 	puts pants + " :) "
-end 
+end
