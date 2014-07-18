@@ -13,7 +13,7 @@ if pants == 'apple bottom jeans'
 end
 
 5.times do
-	puts pants + " :) "
+	puts shoes + " :) "
 end
 
 100.times do |i|
