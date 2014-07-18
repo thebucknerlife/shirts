@@ -1,5 +1,9 @@
+
 puts 'what pants would you like to wear today?'
 
 pants = gets.chomp
 
-puts pants
+
+5.times do 
+	puts pants + " :) "
+end 
